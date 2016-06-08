@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2061
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@XUZANG
 #+PROPERTY: LASTPB <pb:KR6r0054_T_020-0836b> 
 #+PROPERTY: JUAN 20
 ¶
@@ -69,7 +69,7 @@
 昏沈胡可怪哉。曰師若昏沈可去啜煮荈¶
 乎。翁指東北。見精舍相距數步餘。翁牽牛¶
 前行。著躡躅而隨。至寺門。喚均提三聲。童¶
-子應唯開闔。年可十四五。垂髮齊眉衣褐¶
+子[(應-心)/言]唯開闔。年可十四五。垂髮齊眉衣褐¶
 襦。牽牛入寺。見其地盡是瑠璃。堂舍廊廡¶
 皆耀金色。其間華靡非人間之制度。翁踞¶
 白牙床。指錦墩揖著坐。童子捧二甌茶。對

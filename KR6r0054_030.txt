@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2061
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@XUZANG
 #+PROPERTY: LASTPB <pb:KR6r0054_T_030-0894c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
@@ -38,7 +38,7 @@
 非所好也。徇俗受之。然歸歟之歎未甞少¶
 棄。四年十月二十五日。囑累弟子訖奄然而¶
 寂。春秋五十六。夏三十二。郄宋二家率財權¶
-瘞于滻水東。人皆悲之。門人鑑諸後歸葬¶
+瘞于[滻-文+(立-一)]水東。人皆悲之。門人鑑諸後歸葬¶
 于崇山之南華嚴寺起塔。會昌四年起居舍¶
 人韋絢為碑紀代焉。¶
 
