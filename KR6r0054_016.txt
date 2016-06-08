@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2061
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0054_T_016-0806a> 
 #+PROPERTY: JUAN 16
 ¶
@@ -216,7 +216,7 @@
 
 釋丹甫者。不知何許人也。性多警達。言必¶
 剛直。講授唯勤執持雅正。會稽風土律範淵¶
-府也。甫之唱導從之者。若玄金之就磁石¶
+府也。甫之唱導從之者。若玄金之就[石*慈]石¶
 焉。本習業於亘文律師法集。文即省躬之游¶
 夏也。甫即躬之嗣孫。順正命章斡通祕賾。¶
 越自曇一玄儼之後。罕能追躡。甫之聲塵¶

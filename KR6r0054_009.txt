@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2061
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0054_T_009-0760b> 
 #+PROPERTY: JUAN 9
 ¶
@@ -99,7 +99,7 @@
 之所謂出四衢道露地而坐也。時坦禪師乃¶
 勸讓往嵩丘覿安公。安啟發之。因入曹侯¶
 溪覲能公。能公怡然無馨無臭。洪波泛臻¶
-大壑之廣乎。韶濩合奏大樂之和乎。讓之深¶
+大[堅-臣+(虍-七+(一/谷))]之廣乎。韶濩合奏大樂之和乎。讓之深¶
 入寂定住無動道場為若此也。能公大事¶
 緣畢。讓乃躋衡嶽止于觀音臺。時有僧玄¶
 至拘刑獄。舉念願讓師救護。讓早知而勉¶

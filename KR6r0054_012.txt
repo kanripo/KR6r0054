@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2061
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0054_T_012-0778a> 
 #+PROPERTY: JUAN 12
 ¶
@@ -417,7 +417,7 @@
 魏魏乎。法門圍遶之所不可造次。其地宜¶
 若布金之形勝可矣。府之西二百里有山¶
 焉。環控四邑峭拔萬仞。崷崒以支圓碧。培¶
-樓以[瓜*見]群青。怪石古松棲蟄龜鶴。靈湫邃壑¶
+樓以[瓜*見]群青。怪石古松棲蟄龜鶴。靈湫邃[堅-臣+(虍-七+(一/谷))]¶
 隱見龍雷。山之巔先冬而雪盛夏而寒。其樹¶
 皆別垂藤蘿。䒠茸而以為之衣。交錯而不¶
 呈其形奇姿異景不可殫狀。雖霍童武¶

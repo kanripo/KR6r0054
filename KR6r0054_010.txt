@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2061
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0054_T_010-0766a> ¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
@@ -385,7 +385,7 @@
 神物。自道祠舍濱江水焉。凡我疆畛富於¶
 松梓。悉願傾倒施僧伽藍。命工覘之宛若
 <pb:KR6r0054_T_010-0770a>¶
-符契。於是斬巨棟幹修楹。撑崖拄壑雲屯¶
+符契。於是斬巨棟幹修楹。撑崖拄[堅-臣+(虍-七+(一/谷))]雲屯¶
 井構。時維秋杪水用都涸。徒眾歛手塊然無¶
 謀。會一夕雨至萬株並進。晨發江滸暮抵¶
 寺門。剞劂之際動無乏者。其餘廊廡床案。靡¶

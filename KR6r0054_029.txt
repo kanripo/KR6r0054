@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2061
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0054_T_029-0888c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 29
 ¶
@@ -513,7 +513,7 @@
 發心。依洪思法師出家。隷業偕通。遂往嵩¶
 少間遊於洛邑。遇神會祖師授其心訣。¶
 後登太行山。見馬頭峯下可以棲神。結茅¶
-而止。有褚塾戍將王文信。率眾建精廬焉。¶
+而止。有[示*者]塾戍將王文信。率眾建精廬焉。¶
 刺史李亞卿中丞命入城。不赴示寂。報齡八¶
 十九。元和六年三月遷塔云。¶
 
